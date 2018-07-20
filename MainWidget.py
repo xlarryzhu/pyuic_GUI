@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'D:/Dev/1Projects/PyQtTool/MainWidget.ui'
+# Form implementation generated from reading ui file 'D:/Dev/1Projects/PyQtTool/pyuic_GUI/MainWidget.ui'
 #
-# Created by: PyQt5 UI code generator 5.6
+# Created by: PyQt5 UI code generator 5.9.2
 #
 # WARNING! All changes made in this file will be lost!
 
